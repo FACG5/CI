@@ -10,7 +10,7 @@ Is the process of automating the build and testing of code every time a team mem
 * Stop waiting to find out if your code’s going to work .
 * Reduce integration problems allowing you to deliver software more rapidly .
 
-#### As a developer :relieved: , how can I do it ?!
+#### As a developer , how can I do it :flushed: ?!
 
 * Developers check out code into their private workspaces
 When done, commit the changes to the repository.
@@ -27,4 +27,4 @@ When done, commit the changes to the repository.
 ### The popular tool for CI is Travis :
 ![alt text](https://cloud.githubusercontent.com/assets/1128312/20186823/ddfdbb9e-a771-11e6-9e99-4720e7b60f53.png)
 
-simple example.
+simple example. :+1:
